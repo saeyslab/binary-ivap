@@ -1,6 +1,6 @@
 # IVAP defense against adversarial examples
 
-This repository contains a reference implementation for our defense against adversarial examples, which uses a technique from conformal prediction called *inductive Venn-ABERS predictors* (IVAPs; see [1, 2, 3] for more details). This work has been published in the proceedings of the ESANN 2019 conference [4].
+This repository contains a reference implementation for our defense against [adversarial examples](https://adversarial-ml-tutorial.org/introduction/), which uses a technique from conformal prediction called *inductive Venn-ABERS predictors* (IVAPs; see [1, 2, 3] for more details). This work has been published in the proceedings of the ESANN 2019 conference [4].
 
 ## Prerequisites
 
@@ -14,7 +14,7 @@ In order to run our code, it is necessary to install the following dependencies:
 
 ## Running the code
 
-There is a Jupyter Notebook `cifar10_demo.ipynb` in this repository which contains detailed explanations and demonstrations of how to use the IVAP defense on a subset of the CIFAR-10 data set.
+There is a [Jupyter Notebook](https://jupyter.org/) `cifar10_demo.ipynb` in this repository which contains detailed explanations and demonstrations of how to use the IVAP defense on a subset of the CIFAR-10 data set.
 
 ## References
 
